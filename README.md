@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcv12
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Deep learning and Neural Networks
+- 🌱 I’m currently taking the Deep learning and Neural Networks specialization by Andrew Ng (it's amazing!)
 - 💞️ If you would like to collaborate or have any inquiries on my projects (or suggestions on how to improve them), I would be more than glad to help
 - 📫 How to reach me marcviolides@yahoo.com
 
