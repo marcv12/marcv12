@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcv12
+- 👋 Hi, I’m Marc Violides, an undergraduate Student in Computer Science and Management
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently taking the Deep learning and Neural Networks specialization by Andrew Ng (it's amazing!)
 - 💞️ If you would like to collaborate or have any inquiries on my projects (or suggestions on how to improve them), I would be more than glad to help
