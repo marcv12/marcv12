@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marc Violides, an undergraduate Student in Computer Science and Management
+- 👋 Hi, I’m Marc Violides, a Master's Student in Data Science at the University of Edinburgh
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently taking the Deep learning and Neural Networks specialization by Andrew Ng (it's amazing!)
+- 🌱 I’m currently aiming towards achieving AWS cloud certificates, as I believe that cloud technologies will play a huge part in the future
 - 💞️ If you would like to collaborate or have any inquiries on my projects (or suggestions on how to improve them), I would be more than glad to help
 - 📫 You can reach me at marcviolides@yahoo.com
 
