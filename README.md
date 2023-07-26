@@ -8,6 +8,6 @@ Passionate about all things **Data Science** and **Machine Learning**, I'm const
 
 Feel like we could create some data magic together? Or have a suggestion for me? I'm all ears!
 
-📩 **Reach me at**: marcviolides@yahoo.com 
+📩 **Reach me at**: violidesm@gmail.com 
 
 Data can tell us incredible stories. Let's start a new chapter together!
