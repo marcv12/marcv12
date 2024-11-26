@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Marc Violides - Data Science Master's Student at the University of Edinburgh 🎓 
+# Hi there! 👋 I'm Marc Violides - Data Science Master's Graduate from the University of Edinburgh 🎓 
 
 Passionate about all things **Data Science** and **Machine Learning**, I'm constantly seeking ways to unlock the secrets hidden within data. As I navigate through this exciting realm, I'm also delving deep into the cloud ☁️, working towards **AWS Cloud Certificates**. 
 
