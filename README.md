@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Marc Violides - Data Science MSc from the University of Edinburgh 🎓 and Amazon experience 💼
+# Hi there! 👋 I'm Marc Violides - Amazon SDE 💼 with a Data Science MSc from the University of Edinburgh 🎓
 
 Passionate about all things **Data Science** and **Machine Learning**, I'm constantly seeking ways to unlock the secrets hidden within data. As I navigate through this exciting realm, I'm also delving deep into the cloud ☁️, working towards **AWS Cloud Certificates**. 
 
